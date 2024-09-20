@@ -1,0 +1,4 @@
+semantic-kernel
+colorama
+azure-identity
+selenium
